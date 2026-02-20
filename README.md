@@ -1,4 +1,4 @@
-# Gameplay Portfolio Unity 2D Platformer
+# Portfolio Gameplay Unity 2D Platformer
 
 ## Overview
 Prototype of a 2D Gameplay Platformer with spells casting and movement mecanics based on Celeste.
