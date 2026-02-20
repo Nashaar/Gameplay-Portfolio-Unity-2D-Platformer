@@ -1,6 +1,7 @@
 # Gameplay-Portfolio-Unity-2D-Platformer
 
 ##Overview
+
 Prototype of a 2D Gameplay Platformer with spells casting and movement mecanics based on Celeste.
 The project focuses on movement responsiveness, spell integration, state management and basic save system implementation.
 
