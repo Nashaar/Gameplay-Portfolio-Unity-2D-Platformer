@@ -36,4 +36,4 @@ https://youtu.be/7dGAr11Z9BA
 
 ## Author
 Tom BAUDIN - Gameplay programming student - Unity / C#
-portfolio-geii-2a.tom-baudin.fr
+https://portfolio-geii-2a.tom-baudin.fr
